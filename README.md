@@ -7,7 +7,8 @@ In the project directory, you can run:
 
 ### `npm install`
 Installs all dependancies for the ReactJS Tic Tac Toe, be patient as Node Modules can be chonky.
-once complete, simply run `npm start`
+
+Once complete, simply run `npm start`
 
 ### `npm start`
 
