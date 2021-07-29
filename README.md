@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+Installs all dependancies for the ReactJS Tic Tac Toe, be patient as Node Modules can be chonky.
+once complete, simply run the script below `npm start`
 ### `npm start`
 
 Runs the app in the development mode.\
